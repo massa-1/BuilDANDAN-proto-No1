@@ -1,0 +1,1 @@
+document.getElementById("app").innerText="BuilDANDAN プロトタイプが起動しました！";
